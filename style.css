@@ -4,6 +4,13 @@
     font-family: 'Inconsolata', monospace;
 }
 
+
+.bannerBgImage{
+    height:100vh;
+    background:url("/ba.jpg");
+    background-size:cover ;
+    position:relative;
+}
 .bannerText{
     text-align:right;
     position: absolute;
