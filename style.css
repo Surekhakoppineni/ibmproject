@@ -4,14 +4,6 @@
     font-family: 'Inconsolata', monospace;
 }
 
-
-.bannerBgImage{
-    height:100vh;
-    background:url("/card-1.jpg");
-    background-size:cover ;
-    position:relative;
-}
-
 .bannerText{
     text-align:right;
     position: absolute;
